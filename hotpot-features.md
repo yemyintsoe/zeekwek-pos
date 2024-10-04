@@ -15,7 +15,7 @@
 _Sidenote - have to do "finish alert to waiter"_
 
 - [x] 3. Split Orders: Split a single order across multiple courses or times, allowing customers to add additional items as they eat.
-_Sidenote - edit feature_
+> [!NOTE] - edit feature_
 
 - [ ] 5. Add-On Items: Easily add extra items (e.g., extra noodles, vegetables, meat slices) to ongoing orders without restarting the process.
 
