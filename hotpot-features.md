@@ -14,9 +14,9 @@
 	c) Add-On Items: Easily add extra items (e.g., extra noodles, vegetables, meat slices) to ongoing orders without restarting the process.
 
 ### 4. Billing and Payment:
-a) Service Charge and Tips: Automatically add service charges and allow for tipping options.
-b) Bill Splitting: Easily split bills for groups, especially for hotpot where people may share dishes but want separate bills.
-c) Multiple Payment Options: Accept various payment methods, including cash, card, mobile payments
+- Service Charge and Tips: Automatically add service charges and allow for tipping options.
+- Bill Splitting: Easily split bills for groups, especially for hotpot where people may share dishes but want separate bills.
+- Multiple Payment Options: Accept various payment methods, including cash, card, mobile payments
 
 ###5. Kitchen Display System (KDS):
 	#5.1.Kitchen Integration: Display orders directly in the kitchen so that chefs can see and prepare dishes efficiently.
