@@ -1,17 +1,17 @@
-###1. Table Management
-	#1.1.Table Assignment and Status: Assign tables to customers and track their occupancy status (available, occupied, reserved).
-	#1.2.Table Layout: A visual representation of the restaurant’s table layout for easy navigation and table selection.
-	#1.3.Group Ordering: Allow for multiple orders on a single table, with separate bills for each individual if needed.
+### 1. Table Management
+	a) Table Assignment and Status: Assign tables to customers and track their occupancy status (available, occupied, reserved).
+	b) Table Layout: A visual representation of the restaurant’s table layout for easy navigation and table selection.
+	c) Group Ordering: Allow for multiple orders on a single table, with separate bills for each individual if needed.
 
-###2. Menu Customization
-	#2.1.Interactive Menu: Create an interactive hotpot menu where customers can select ingredients, broths, sauces, and side dishes.
-	#2.2.Dish Customization: Allow customers to customize their orders, including ingredient quantities or selecting from different spice levels and broth options.
-	#2.3.Set Menus: Offer set meal options like "all-you-can-eat" packages or fixed ingredient sets.
+### 2. Menu Customization
+	a) Interactive Menu: Create an interactive hotpot menu where customers can select ingredients, broths, sauces, and side dishes.
+	b) Dish Customization: Allow customers to customize their orders, including ingredient quantities or selecting from different spice levels and broth options.
+	c) Set Menus: Offer set meal options like "all-you-can-eat" packages or fixed ingredient sets.
 
-###3. Order Management:
-	#3.1.Real-Time Order Tracking: Track orders from when they’re placed, sent to the kitchen, prepared, and served.
-	#3.2.Split Orders: Split a single order across multiple courses or times, allowing customers to add additional items as they eat.
-	#3.3.Add-On Items: Easily add extra items (e.g., extra noodles, vegetables, meat slices) to ongoing orders without restarting the process.
+### 3. Order Management:
+	a) Real-Time Order Tracking: Track orders from when they’re placed, sent to the kitchen, prepared, and served.
+	b) Split Orders: Split a single order across multiple courses or times, allowing customers to add additional items as they eat.
+	c) Add-On Items: Easily add extra items (e.g., extra noodles, vegetables, meat slices) to ongoing orders without restarting the process.
 
 ###4. Billing and Payment:
 	#4.1.Service Charge and Tips: Automatically add service charges and allow for tipping options.
