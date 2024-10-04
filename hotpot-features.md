@@ -30,7 +30,7 @@
 1. Online Ordering: Offer takeout or delivery options for hotpot ingredients, including customizable packages.
 2. Delivery Tracking: Integrate with delivery platforms or offer internal delivery tracking.
 
-###8. Reporting & Analytics:
+### 8. Reporting & Analytics:
 1. Sales Reports: Generate daily, weekly, and monthly sales reports to analyze performance.
 2. Inventory Reports: Review inventory usage and trends to optimize ingredient ordering.
 3. Customer Insights: Analyze customer behavior, including popular dishes, peak dining times, and frequent customers.
