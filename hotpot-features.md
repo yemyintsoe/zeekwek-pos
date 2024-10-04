@@ -12,12 +12,8 @@
 
 ### 3. Order Management:
 - [ ] 1. Real-Time Order Tracking: Track orders from when they’re placed, sent to the kitchen, prepared, and served.
-> [!NOTE]
-> have to do "finish alert to waiter"
 
 - [x] 3. Split Orders: Split a single order across multiple courses or times, allowing customers to add additional items as they eat.
-> [!NOTE]
-> same with "Order Edit"
 
 - [ ] 5. Add-On Items: Easily add extra items (e.g., extra noodles, vegetables, meat slices) to ongoing orders without restarting the process.
 
