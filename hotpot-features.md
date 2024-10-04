@@ -11,7 +11,7 @@
 
 
 ### 3. Order Management:
-- [] 1. Real-Time Order Tracking: Track orders from when they’re placed, sent to the kitchen, prepared, and served.
+- [x] 1. Real-Time Order Tracking: Track orders from when they’re placed, sent to the kitchen, prepared, and served.
 _Sidenote - have to do "finish alert to waiter"_
 
 - [x] 3. Split Orders: Split a single order across multiple courses or times, allowing customers to add additional items as they eat.
