@@ -10,8 +10,9 @@
 
 ### 3. Order Management:
 1. Real-Time Order Tracking: Track orders from when they’re placed, sent to the kitchen, prepared, and served.
-2. Split Orders: Split a single order across multiple courses or times, allowing customers to add additional items as they eat.
-3. Add-On Items: Easily add extra items (e.g., extra noodles, vegetables, meat slices) to ongoing orders without restarting the process.
+   * Sidenote - need finish alert to waiter *
+3. Split Orders: Split a single order across multiple courses or times, allowing customers to add additional items as they eat.
+4. Add-On Items: Easily add extra items (e.g., extra noodles, vegetables, meat slices) to ongoing orders without restarting the process.
 
 ### 4. Billing and Payment:
 1. Service Charge and Tips: Automatically add service charges and allow for tipping options.
